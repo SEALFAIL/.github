@@ -1,8 +1,8 @@
-![](logo-transparent.png)
+![](profile/logo-transparent.png)
 
 -----
 
-#Security is for everyone.
+# Security is for everyone.
 
 As our lives are propelled through an increasingly threatening symbiosis of **surveillance capitalism**, authoritarian states, and their sponsored militias, the need for accessible security tools is becoming more apparent **by the day.**
 
